@@ -1,2 +1,3 @@
 # Deep-learning
-Deep Learning course materials and projects
+Tổng hợp bài tập  về deep learning
+
